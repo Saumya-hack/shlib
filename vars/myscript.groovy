@@ -1,4 +1,4 @@
 def call()
 {
-2+2
+echo hi
 }
